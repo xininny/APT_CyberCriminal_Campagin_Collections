@@ -35,6 +35,8 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 :small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) <br>
 
+- July 29 - [[Google] APT41 HasArisen](https://www.naver.com/) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST1)
+
 - July 27 - [[Google] APT41 Has Arisen](https://www.google.com/) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST1)
 
 - July 25 - [[Google] APT41 Has Arisen From the DUST2](https://www.daum.net/) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST1)
