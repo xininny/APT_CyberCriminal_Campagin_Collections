@@ -1443,6 +1443,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 - Nov 04 - [[DTIC] China's Electronic Long-Range Reconnaissance](http://www.dtic.mil/dtic/tr/fulltext/u2/a492659.pdf) | [:closed_book:](../../blob/master/2008/2008.11.04.China_Electornic_Long_Range_Reconnaissance)
 - Oct 02 - [[Culture Mandala] How China will use cyber warfare to leapfrog in military competitiveness](http://www.international-relations.com/CM8-1/Cyberwar.pdf) | [:closed_book:](../../blob/master/2008/2008.10.02.China_Cyber_Warfare)
 - Aug 10 - [[Georgia] Russian Invasion of Georgia Russian Cyberwar on Georgia](http://georgiaupdate.gov.ge/doc/10006922/CYBERWAR-%20fd_2_.pdf) | [:closed_book:](../../blob/master/2008/2008.08.10.Russian_Cyberwar_on_Georgia)
+- Aug 12 - [[Georgia] Russian Invasion of Georgia Russian Cyberwar on asdfGeorgia](http://gadsfeorgiaupdate.gov.ge/doc/10006922/CYBERWAR-%20fd_2_.pdf) | [:closed_book:](../../blob/master/2008/2008.08.10.Russian_Cyberwar_on_Georgia)
 
 ## 2006
 
