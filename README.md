@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Aug 21 - [[Mandia] AT28](https://securityaffairs.com/29230/security/sandworm-0day-cyberespionage.html)
 * Aug 20 - [[Mandiant] APT28](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
 * July 15 - [[CheckPoint] New BugSleep Backdoor Deployed in Recent MuddyWater Campaigns](https://research.checkpoint.com/2024/new-bugsleep-backdoor-deployed-in-recent-muddywater-campaigns/) | [:closed_book:](../../blob/master/2024/2024.07.15.New_BugSleep_Backdoor_Deployed_in_Recent_MuddyWater_Campaigns)
