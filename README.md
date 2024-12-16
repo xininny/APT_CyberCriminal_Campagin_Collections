@@ -4,11 +4,13 @@ This is collections of APT and cybercriminals campaign.
 Please fire issue to me if any lost APT/Malware events/campaigns. 
 
 🤷The password of malware samples could be 'virus' or 'infected'
+* Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 
 ## URL to PDF Tool
 * [Print Friendly & PDF](https://www.printfriendly.com/)
 
 ## Reference Resources
+* Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 :small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) <br>
 :small_blue_diamond: [APTnotes](https://github.com/aptnotes/data) <br>
 :small_blue_diamond: [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) <br>
@@ -30,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 * Aug 21 - [[Mandia] AT28](https://securityaffairs.com/29230/security/sandworm-0day-cyberespionage.html)
 * Aug 20 - [[Mandiant] APT28](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
@@ -58,6 +61,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2023
+* Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 * Dec 27 - [[Kaspersky] Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/) | [:closed_book:](../../blob/master/2023/2023.12.27.Operation_Triangulation)
 * Dec 21 - [[CISCO] Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware](https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/) | [:closed_book:](../../blob/master/2023/2023.12.21.Intellexa_Cytrox)
 * Dec 19 - [[Symantec] Seedworm: Iranian Hackers Target Telecoms Orgs in North and East Africa](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms) | [:closed_book:](../../blob/master/2023/2023.12.19.Seedworm)
