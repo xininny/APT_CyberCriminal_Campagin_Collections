@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Dec 29 - [[Google] German](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 * Dec 30 - [[Google] No Monkeys](https://www.kaspersky.com/blog/no-monkeys-for-cozyduke-2/15062/)
 * Dec 28 - [Google] SandWorm](https://securityaffairs.com/29230/security/sandworm-0day-cyberespionage.html)
 * Dec 25 - [[Google] APT28](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
