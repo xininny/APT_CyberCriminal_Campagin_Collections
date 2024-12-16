@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Jun 28 - [[Google] A Fanny](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)
 * Jun 29 - [[Google] Digital Attack on German Parliament: Investigative Report on the Hack of the Left Party Infrastructure in Bundestag](https://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/)
 * Dec 29 - [[Google] German](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 * Dec 30 - [[Google] No Monkeys](https://www.kaspersky.com/blog/no-monkeys-for-cozyduke-2/15062/)
