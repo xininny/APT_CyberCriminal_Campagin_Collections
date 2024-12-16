@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Dec 30 - [[Google] No Monkeys](https://www.kaspersky.com/blog/no-monkeys-for-cozyduke-2/15062/)
 * Dec 28 - [Google] SandWorm](https://securityaffairs.com/29230/security/sandworm-0day-cyberespionage.html)
 * Dec 25 - [[Google] APT28](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
