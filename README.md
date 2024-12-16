@@ -30,14 +30,6 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
-* Jun 28 - [[Google] A Fany]([https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)](https://www.bbc.com/news/technology-36284447) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST22333)
-* Jun 28 - [[Google] A Fanny](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/) | | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST222)
-* Jun 28 - [[Google] A Fanny](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)
-* Jun 29 - [[Google] Digital Attack on German Parliament: Investigative Report on the Hack of the Left Party Infrastructure in Bundestag](https://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/)
-* Dec 29 - [[Google] German](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
-* Dec 30 - [[Google] No Monkeys](https://www.kaspersky.com/blog/no-monkeys-for-cozyduke-2/15062/)
-* Dec 28 - [Google] SandWorm](https://securityaffairs.com/29230/security/sandworm-0day-cyberespionage.html)
-* Dec 25 - [[Google] APT28](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
 * July 15 - [[CheckPoint] New BugSleep Backdoor Deployed in Recent MuddyWater Campaigns](https://research.checkpoint.com/2024/new-bugsleep-backdoor-deployed-in-recent-muddywater-campaigns/) | [:closed_book:](../../blob/master/2024/2024.07.15.New_BugSleep_Backdoor_Deployed_in_Recent_MuddyWater_Campaigns)
 * July 10 - [[Zscaler] A deep dive into the updated arsenal of APT41 ](https://www.zscaler.com/blogs/security-research/dodgebox-deep-dive-updated-arsenal-apt41-part-1) | [:closed_book:](../../blob/master/2024/2024.07.10.A_deep_dive_into_the_updated_arsenal_of_APT41)
