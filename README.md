@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Aug 21 - [[Md] A2](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)
 * Aug 21 - [[Mda] A2](https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/)
 * Aug 21 - [[Mdia] A2](https://techspective.net/2015/04/14/fireeye-warns-of-apt-30-cyber-espionage-operation/)
 * Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
