@@ -30,6 +30,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* Jun 28 - [[Google] A Fany]([https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)](https://www.bbc.com/news/technology-36284447) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST22333)
 * Jun 28 - [[Google] A Fanny](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/) | | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST222)
 * Jun 28 - [[Google] A Fanny](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)
 * Jun 29 - [[Google] Digital Attack on German Parliament: Investigative Report on the Hack of the Left Party Infrastructure in Bundestag](https://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/)
