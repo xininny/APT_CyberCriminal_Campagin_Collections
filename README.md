@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 27 - [[hlllsssl] helssssllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
 * July 26 - [[hllll] helllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
 * July 25 - [[helloyyyy] hellyy](https://cybersecuritynews.com/blind-eagle-apt-attacks/)
 * July 24 - [[helloooooo] hellooo](https://www.bbc.com/news/world-europe-45747472)
