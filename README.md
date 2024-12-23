@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 30 - [[pipi] pihlih](https://threatpost.com/ranian-apt-6tb-data-citrix/142688/)
 * July 30 - [[hihihihoho] hihihioh](https://www.businesswire.com/news/home/20160208005781/en/Carbanak-and-Beyond-Banks-Face-New-Attacks)
 * July 29 - [[hohohihi] hihihoho](https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html)
 * July 28 - [[hihihihihihih] hihi](https://cybersecuritynews.com/apt-hackers-abusing-google-onedrive/)
