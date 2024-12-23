@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 23 - [[hihi] hiiiii](https://www.amnesty.org/en/latest/press-release/2019/04/state-sponsored-cyber-attack-hong-kong/)
 * July 22 - [[hahaho] hoooo](https://securityaffairs.com/92649/apt/turbine-panda-aerospace-espionage.html)
 * July 21 - [[hahahaha] ho](https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack)
 * July 20 - [[haha] ho](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
