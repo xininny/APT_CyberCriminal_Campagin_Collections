@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 20 - [[hahaha] hoho](https://securelist.com/operation-daybreak/75100/)]
 * July 20 - [[haha] ho](https://securelist.com/the-desert-falcons-targeted-attacks/68817/)
 * Aug 21 - [[Md] A2](https://securelist.com/a-fanny-equation-i-am-your-father-stuxnet/68787/)
 * Aug 21 - [[Mda] A2](https://securelist.com/equation-the-death-star-of-malware-galaxy/68750/)
