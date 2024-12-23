@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 22 - [[hahaho] hoooo](https://securityaffairs.com/92649/apt/turbine-panda-aerospace-espionage.html)
 * July 21 - [[hahahaha] ho](https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack)
 * July 20 - [[haha] ho](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
