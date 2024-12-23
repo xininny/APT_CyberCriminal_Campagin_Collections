@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 29 - [[hohohihi] hihihoho](https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html)
 * July 28 - [[hihihihihihih] hihi](https://cybersecuritynews.com/apt-hackers-abusing-google-onedrive/)
 * July 27 - [[hlllsssl] helssssllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
 * July 26 - [[hllll] helllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
