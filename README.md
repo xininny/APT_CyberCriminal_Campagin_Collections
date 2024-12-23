@@ -32,6 +32,7 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
+* July 25 - [[helloyyyy] hellyy](https://cybersecuritynews.com/blind-eagle-apt-attacks/)
 * July 24 - [[helloooooo] hellooo](https://www.bbc.com/news/world-europe-45747472)
 * July 23 - [[hssihi] hiiissii](httpss://www.amnesty.org/en/latest/press-release/2019/04/state-sponsored-cyber-attack-hong-kong/)
 * July 23 - [[hihi] hiiiii](https://www.amnesty.org/en/latest/press-release/2019/04/state-sponsored-cyber-attack-hong-kong/)
