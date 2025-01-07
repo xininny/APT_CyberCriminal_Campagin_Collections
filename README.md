@@ -10,7 +10,6 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 * [Print Friendly & PDF](https://www.printfriendly.com/)
 
 ## Reference Resources
-* Aug 21 - [[Mndia] A28](https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/german-steel-plant-suffers-significant-damage-from-targeted-attack)
 :small_blue_diamond: [kbandla](https://github.com/kbandla/APTnotes) <br>
 :small_blue_diamond: [APTnotes](https://github.com/aptnotes/data) <br>
 :small_blue_diamond: [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml) <br>
@@ -32,19 +31,6 @@ Please fire issue to me if any lost APT/Malware events/campaigns.
 
 
 ## 2024
-* July 30 - [[pipi] pihlih](https://threatpost.com/ranian-apt-6tb-data-citrix/142688/)
-* July 30 - [[hihihihoho] hihihioh](https://www.businesswire.com/news/home/20160208005781/en/Carbanak-and-Beyond-Banks-Face-New-Attacks)
-* July 29 - [[hohohihi] hihihoho](https://securityaffairs.com/169460/apt/salt-typhoon-hacked-us-broadband-providers.html)
-* July 28 - [[hihihihihihih] hihi](https://cybersecuritynews.com/apt-hackers-abusing-google-onedrive/)
-* July 27 - [[hlllsssl] helssssllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
-* July 26 - [[hllll] helllyyyy](https://securityaffairs.com/166552/apt/stormbamboo-compromised-isp-malware.html)
-* July 25 - [[helloyyyy] hellyy](https://cybersecuritynews.com/blind-eagle-apt-attacks/)
-* July 24 - [[helloooooo] hellooo](https://www.bbc.com/news/world-europe-45747472)
-* July 23 - [[hssihi] hiiissii](httpss://www.amnesty.org/en/latest/press-release/2019/04/state-sponsored-cyber-attack-hong-kong/)
-* July 23 - [[hihi] hiiiii](https://www.amnesty.org/en/latest/press-release/2019/04/state-sponsored-cyber-attack-hong-kong/)
-* July 22 - [[hahaho] hoooo](https://securityaffairs.com/92649/apt/turbine-panda-aerospace-espionage.html)
-* July 21 - [[hahahaha] ho](https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack)
-* July 20 - [[haha] ho](https://thehackernews.com/2014/10/APT28-Russian-hacker-cyber-espionage.html)
 * July 19 - [[Google] APT41 Has Arisen From the DUST](https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust) | [:closed_book:](../../blob/master/2024/2024.07.19.APT41_Has_Arisen_From_the_DUST)
 * July 15 - [[CheckPoint] New BugSleep Backdoor Deployed in Recent MuddyWater Campaigns](https://research.checkpoint.com/2024/new-bugsleep-backdoor-deployed-in-recent-muddywater-campaigns/) | [:closed_book:](../../blob/master/2024/2024.07.15.New_BugSleep_Backdoor_Deployed_in_Recent_MuddyWater_Campaigns)
 * July 10 - [[Zscaler] A deep dive into the updated arsenal of APT41 ](https://www.zscaler.com/blogs/security-research/dodgebox-deep-dive-updated-arsenal-apt41-part-1) | [:closed_book:](../../blob/master/2024/2024.07.10.A_deep_dive_into_the_updated_arsenal_of_APT41)
